@@ -132,7 +132,7 @@ const experiences = [
       role: 'Python Intern \n ',
       company: 'Zenzzen Pvt. Ltd.',
       description:
-         'The Republic Biscuit Corporation, doing business as Rebisco and also known as the Rebisco Group of Companies, is a Philippine privately held multinational snack food company headquartered in Ortigas Center, Pasig.',
+         'Zenzzen is your dedicated in crafting innovative, engaging and user-,focused digital solutions, propelling your business to new heights in todays connected world.',
       location: 'Surendranagar, Gujarat, Bharat.',
       duration: 'March 2022 -  May 2022',
       mode: 'On-site',
