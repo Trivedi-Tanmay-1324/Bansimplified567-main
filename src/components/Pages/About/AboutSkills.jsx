@@ -76,14 +76,14 @@ const badgeData = [
       src: 'https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white',
       alt: 'vscode',
    },
-   {
-      src: 'https://img.shields.io/badge/Open%20AI-0f9e7b.svg?style=for-the-badge&logo=openAI&logoColor=white',
-      alt: 'open-AI',
-   },
-   {
-      src: 'https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white',
-      alt: 'powershell',
-   },
+   //{
+   //   src: 'https://img.shields.io/badge/Open%20AI-0f9e7b.svg?style=for-the-badge&logo=openAI&logoColor=white',
+   //   alt: 'open-AI',
+   //},
+  // {
+  //    src: 'https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white',
+  //    alt: 'powershell',
+  // },
    {
       src: 'https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white',
       alt: 'xampp',
